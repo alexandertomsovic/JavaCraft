@@ -1,4 +1,4 @@
-# JavaCraft! Version V1.1 has finally finished!
+# JavaCraft! Version V2.0 has finally finished!
 
 Hello all! I am importing my JavaCraft V2.0 game to my github! JavaCraft V1 and JavaCraft V2 were previously on replit. Visit that here: linktr.ee/alextomsovic
 
